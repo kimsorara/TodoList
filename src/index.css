@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Times New Roman", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: rgb(70, 12, 104);
+}
